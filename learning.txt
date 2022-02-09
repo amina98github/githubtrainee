@@ -1,0 +1,4 @@
+this is my today's topics:
+
+create a github account: 1hr
+creating a repository: 2hr
